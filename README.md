@@ -33,7 +33,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
-
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+https://raminnoorzada.github.io/Profissional-Portfolio/ 
