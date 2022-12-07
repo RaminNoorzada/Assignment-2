@@ -1,9 +1,10 @@
+/* Sections Colors nested*/ 
 :root {
     --primary-color: #257087;
     --secondary-color: #e6e6f0;
     --tertiary-color: #1ea8b7; 
 }
-
+/* Globale elements selected*/
 * {
     box-sizing: border-box;
     margin: 0;
@@ -20,6 +21,7 @@ body {
 .Noorzada {
     color: rgb(159, 202, 191);
 }
+/*header starts here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +60,9 @@ header nav ul li a:hover {
     border-radius: 15px;
     text-shadow: none;
 }
+/*Paragraph and sections selected to style*/ 
 p {
+    border-left: 6px solid var(--primary-color);
     font-size: 24px;
     padding: 5px 35px 0 20px;
     width: 50%;
@@ -100,8 +104,9 @@ section {
     border-color: var(--primary-color);
     
 }
-
+/*Work container start here*/
 .work-container {
+    border-left: 6px solid var(--primary-color);
     display: flex;
     flex-wrap: wrap;
     flex: 0 0 66%;
@@ -209,4 +214,4 @@ img {
         margin-bottom: 15px;
         width: 90%;
     }
-}
+}}
